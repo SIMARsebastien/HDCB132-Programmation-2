@@ -1,0 +1,12 @@
+mapnumber:
+
+0=MAP acceuil
+1=Menu général
+2=IN GAME
+3=Crédits
+4= Options
+5=Scores
+6=game SAVE
+7= Choix du nom 
+
+
